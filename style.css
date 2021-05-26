@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+
+.fa-tiktok {
+    color: #fff;
+    font-size: 36em;
+    text-shadow: 15px 15px #ff3353fc,
+        -15px -15px cyan;
+}
